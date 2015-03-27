@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>206D53E1-DA56-47CF-A9C3-36FF74E84C14</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AdvancedURLConnections</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D457BF9B4702B9D503E90C58C5F46104DE443FA3</key>
+		<string>https://github.com/vivek73153/apple-ios-samples-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AdvancedURLConnections/AdvancedURLConnections.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D457BF9B4702B9D503E90C58C5F46104DE443FA3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vivek73153/apple-ios-samples-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D457BF9B4702B9D503E90C58C5F46104DE443FA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D457BF9B4702B9D503E90C58C5F46104DE443FA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apple-ios-samples-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
